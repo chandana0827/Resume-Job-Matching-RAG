@@ -40,12 +40,5 @@ streamlit run app.py
 🔍 Best Matched Job: Data Scientist - AI & ML
 📊 Match Percentage: 85%
 
-🔮 Future Enhancements
-
-✅ Better job matching accuracy
-✅ Support for multiple file types (Docx, Image OCR)
-✅ AI-powered job suggestions
-
-❤️ Contributions
 
 Contributions are welcome! Feel free to fork and improve this project. 😊
